@@ -5,3 +5,14 @@
 
 ## sentdex
 [Volume + MA calculation ](https://www.youtube.com/watch?v=QAkOnV1-lIg&list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ&index=3)
+
+
+
+# Medium articles
+
+[Understanding LSTM](https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714)
+[Tensorflow RNN Tutorial](https://www.tensorflow.org/tutorials/sequences/recurrent)
+
+# Nice Tutorials
+
+[Stockmarket predictions with LSTM](https://github.com/thushv89/datacamp_tutorials/blob/master/Reviewed/lstm_stock_market_prediction.ipynb)
