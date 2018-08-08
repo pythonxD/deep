@@ -16,3 +16,8 @@
 # Nice Tutorials
 
 [Stockmarket predictions with LSTM](https://github.com/thushv89/datacamp_tutorials/blob/master/Reviewed/lstm_stock_market_prediction.ipynb)
+
+
+[Deeplearning from Zero to All](https://github.com/hunkim/DeepLearningZeroToAll)
+
+[Checkthisout](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
